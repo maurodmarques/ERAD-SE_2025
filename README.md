@@ -1,6 +1,6 @@
 # HPCC-Systems platform
 
-Environment for the HPCC-Systems big data platform.  This demo uses cloud developer environments (originally [ONA](https://gitpod.io), now also [GitHub Codespaces](https://github.com/features/codespaces)) to host a single node instance of the HPCC-System platform and VS Code (web based) with the ECL Extension pre-installed.
+Environment for the HPCC-Systems big data platform.  This demo uses cloud developer environments (originally GitPod, currently migrated to [ONA](https://gitpod.io), now also [GitHub Codespaces](https://github.com/features/codespaces)) to host a single node instance of the HPCC-System platform and VS Code (web based) with the ECL Extension pre-installed.
 
 ## Launch in GitHub Codespaces
 
