@@ -1,4 +1,11 @@
-# HPCC-Systems platform
+# Workshop
+
+ECL course material for community workshops. The training cluster utilized during the workshop is: [TrainingCluster](https://eclwatch.br-training-prod.azure.lnrsg.io:18010/). After completing this course, you should use: *localhost* or [PlayGroundCluster](http://play.hpccsystems.com:18010/).
+
+**Note**: The '*persons*' and '*property.csv*' datasets are already sprayed and available in the Training cluster utilized during the workshop.
+
+
+# HPCC Systems platform
 
 Environment for the HPCC-Systems big data platform.  This demo uses cloud developer environments (originally GitPod, currently migrated to [ONA](https://gitpod.io), now also [GitHub Codespaces](https://github.com/features/codespaces)) to host a single node instance of the HPCC-System platform and VS Code (web based) with the ECL Extension pre-installed.
 
