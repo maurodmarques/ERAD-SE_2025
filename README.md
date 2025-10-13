@@ -2,7 +2,7 @@
 
 ECL course material for community workshops. The training cluster utilized during the workshop is: [TrainingCluster](https://eclwatch.br-training-prod.azure.lnrsg.io:18010/). After completing this course, you should use: *localhost* or [PlayGroundCluster](http://play.hpccsystems.com:18010/).
 
-**Note**: The '*persons*' and '*property.csv*' datasets are already sprayed and available in the Training cluster utilized during the workshop.
+**Note**: The '*persons*' and '*property.csv*' datasets are already sprayed and available in the training cluster utilized during the workshop.
 
 
 # HPCC Systems platform
