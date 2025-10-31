@@ -42,16 +42,16 @@ The Codespaces environment will:
 
 ![Welcome Image](./.resources/welcome.jpeg "Welcome")
 
-* Expand the "Samples" folder and click on "default.ecl"
+* Expand the "Code/ECL" folder and click on "BWR_Tests.ecl"
 
-![Default ECL Image](./.resources/default.jpeg "default.ecl")
+![BWR_Tests Image](./.resources/BWR_Tests.jpeg "BWR_Tests.ecl")
 
-1.  Check the environment and target
-2.  Click on the submit button
+1.  Verify the environment and target
+2.  Click on the check, and then submit button
 
-![Submit ECL Image](./.resources/submit.jpeg "Submitted default.ecl")
+![Submit Image](./.resources/submit.jpeg "Submitted BWR_Tests.ecl")
 
-* Open ECL Watch by clicking on the globe
+* Open ECL Watch by clicking on the globe icon
 
 ![Open ECL Watch](./.resources/eclwatch_globe.jpeg "Open ECL Watch")
 
